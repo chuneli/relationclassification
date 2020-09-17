@@ -1,0 +1,53 @@
+step:    1 | loss: 9.183825, accuracy: 11.50%
+step: 2000 | loss: 1.140152, accuracy: 59.30%
+[EVAL] step:    1 | accuracy: 80.00%
+[EVAL] step: 1000 | accuracy: 83.43%
+step: 2001 | loss: 0.863490, accuracy: 67.50%
+step: 4000 | loss: 0.685494, accuracy: 75.24%
+[EVAL] step:    1 | accuracy: 81.00%
+[EVAL] step: 1000 | accuracy: 84.51%
+step: 4001 | loss: 0.581505, accuracy: 82.50%
+step: 6000 | loss: 0.584054, accuracy: 79.01%
+[EVAL] step:    1 | accuracy: 83.00%
+[EVAL] step: 1000 | accuracy: 85.18%
+step: 6001 | loss: 0.553857, accuracy: 83.00%
+step: 8000 | loss: 0.520435, accuracy: 81.33%
+[EVAL] step:    1 | accuracy: 68.00%
+[EVAL] step: 1000 | accuracy: 85.61%
+step: 8001 | loss: 0.685482, accuracy: 76.50%
+step: 10000 | loss: 0.480916, accuracy: 82.74%
+[EVAL] step:    1 | accuracy: 77.00%
+[EVAL] step: 1000 | accuracy: 85.78%
+step: 10001 | loss: 0.588727, accuracy: 76.00%
+step: 12000 | loss: 0.450880, accuracy: 83.82%
+[EVAL] step:    1 | accuracy: 87.00%
+[EVAL] step: 1000 | accuracy: 86.08%
+step: 12001 | loss: 0.364861, accuracy: 85.50%
+step: 14000 | loss: 0.423099, accuracy: 84.83%
+[EVAL] step:    1 | accuracy: 82.00%
+[EVAL] step: 1000 | accuracy: 86.01%
+step: 14001 | loss: 0.526354, accuracy: 82.00%
+step: 16000 | loss: 0.406304, accuracy: 85.41%
+[EVAL] step:    1 | accuracy: 91.00%
+[EVAL] step: 1000 | accuracy: 85.72%
+step: 16001 | loss: 0.453027, accuracy: 82.00%
+step: 18000 | loss: 0.380692, accuracy: 86.36%
+[EVAL] step:    1 | accuracy: 85.00%
+[EVAL] step: 1000 | accuracy: 86.34%
+step: 18001 | loss: 0.309291, accuracy: 88.50%
+step: 20000 | loss: 0.368610, accuracy: 86.77%
+[EVAL] step:    1 | accuracy: 84.00%
+[EVAL] step: 1000 | accuracy: 86.13%
+step: 20001 | loss: 0.209909, accuracy: 95.50%
+step: 22000 | loss: 0.350901, accuracy: 87.44%
+[EVAL] step:    1 | accuracy: 90.00%
+[EVAL] step: 1000 | accuracy: 86.06%
+step: 22001 | loss: 0.418752, accuracy: 85.50%
+step: 24000 | loss: 0.345886, accuracy: 87.61%
+[EVAL] step:    1 | accuracy: 89.00%
+[EVAL] step: 1000 | accuracy: 86.26%
+step: 24001 | loss: 0.298457, accuracy: 91.00%
+step: 26000 | loss: 0.341257, accuracy: 87.70%
+[EVAL] step:    1 | accuracy: 89.00%
+[EVAL] step: 1000 | accuracy: 86.56%
+step: 26001 | loss: 0.280068, accuracy: 90.00%
